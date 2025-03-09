@@ -1,4 +1,4 @@
-### Hi 👋 it's @devieffe on GitHub
+### Hi 👋 it's Dev Ieffe on GitHub
 
 🔭 I’m working on: a startup  
 👋 Support: add 👍 for "[Uxer](https://www.urbandictionary.com/define.php?term=uxer)" on Urban dictionary    
