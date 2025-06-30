@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Dev
 
 FE/FS developer passionate about new tech like gen AI, "vibe" coding, frontend UX, and smart developer tools.  
-Currently building and help maintaining products that include OpenAI, Next.js, cloud-native architecture.  
+Currently building and help maintaining products that include OpenAI, Next.js, and cloud-native architecture.  
   
-🔭 I’m working in: a startup, like usually
-👋 Support: add 👍 for "[Uxer](https://www.urbandictionary.com/define.php?term=uxer)" on Urban dictionary  
-? What the Dev: Dev is a short of David (Dave)
-🔍 How to reach me: dev ieffe  
-😄 Pronouns: [i-e-fe]
-  
+🔭 I’m working in: a startup, like usually  
+👋 Support: add 👍 for "[Uxer](https://www.urbandictionary.com/define.php?term=uxer)" on Urban dictionary   
+? What the Dev: Dev is a short of David (Dave)  
+🔍 How to reach me: dev ieffe   
+😄 Pronouns: [i-e-fe]  
+   
 ## Tech I like to use    
 React / Next.js / TypeScript / Bootstrap / TailwindCSS / Node.js / Python / GPT-4 / PostgreSQL / Vercel / Supabase / & many more
   
