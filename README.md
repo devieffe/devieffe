@@ -17,6 +17,6 @@ React / Next.js / TypeScript / Bootstrap / TailwindCSS / Node.js / Python / GPT-
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devieffe)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devieffe)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devieffe)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/devy)
+[![Dev.to](https://img.shields.io/badge/dev.to-E0E0E0?style=for-the-badge&logo=devdotto&logoColor=black)](https://dev.to/devy)
   
 
