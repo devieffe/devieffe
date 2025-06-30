@@ -9,8 +9,8 @@ Currently building and help maintaining products that include OpenAI, Next.js, a
 🔍 How to reach me: dev ieffe   
 😄 Pronouns: [i-e-fe]  
    
-## Tech I like to use    
-React / Next.js / TypeScript / Bootstrap / TailwindCSS / Node.js / Python / GPT-4 / PostgreSQL / Vercel / Supabase / & many more
+## My tech stack
+React / Next.js / TypeScript / Node.js / Python / GPT-4 / PostgreSQL / Vercel / & many more
   
 ## Let's connect  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devieffe) 
