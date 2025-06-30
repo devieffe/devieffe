@@ -13,7 +13,7 @@ Currently building and help maintaining products that include OpenAI, Next.js, a
 React / Next.js / TypeScript / Bootstrap / TailwindCSS / Node.js / Python / GPT-4 / PostgreSQL / Vercel / Supabase / & many more
   
 ## Let's connect  
-Linkedin: [linkedin.com/in/devieffe](https://www.linkedin.com/in/devieffe)  
+Linkedin: ![https://www.linkedin.com/in/devieffe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 X: [x.com/devieffe](https://x.com/devieffe)  
 Facebook: [facebook.com/devieffe](https://www.facebook.com/devieffe)  
 Blog: [medium.com/@devieffe](https://medium.com/devieffe)  
