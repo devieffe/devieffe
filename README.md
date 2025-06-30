@@ -18,6 +18,6 @@ X: [x.com/devieffe](https://x.com/devieffe)
 Facebook: [facebook.com/devieffe](https://www.facebook.com/devieffe)  
 Blog: [medium.com/@devieffe](https://medium.com/devieffe)  
 Dev.to: [dev.to/devy](https://dev.to/devy)  
-E-mail: [dave@mail.offi.dev](mailto:dave@mail.offi.dev)
+E-mail: dave@mail.offi.dev
   
 
