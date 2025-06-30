@@ -7,7 +7,7 @@ Currently building and help maintaining products that include OpenAI, Next.js, a
 👋 Support: add 👍 for "[Uxer](https://www.urbandictionary.com/define.php?term=uxer)" on Urban dictionary   
 ❔ What the: Dev is my option of name David (Dave)  
 🔍 How to reach me: dev ieffe   
-😄 Pronouns: [i-e-fe]  
+😄 Pronouns: [i-e-fe] *eu
    
 ## My tech stack
 React / Next.js / TypeScript / Node.js / Python / GPT-4 / PostgreSQL / Vercel / & many more
