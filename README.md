@@ -5,7 +5,7 @@ Currently building and help maintaining products that include OpenAI, Next.js, a
   
 🔭 I’m working in: a startup, like usually  
 👋 Support: add 👍 for "[Uxer](https://www.urbandictionary.com/define.php?term=uxer)" on Urban dictionary   
-? What the Dev: Dev is a short of David (Dave)  
+❔ What the: Dev is my option of name David (Dave)  
 🔍 How to reach me: dev ieffe   
 😄 Pronouns: [i-e-fe]  
    
