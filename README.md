@@ -3,9 +3,9 @@
 FE/FS developer passionate about new tech like gen AI, "vibe" coding, frontend UX, and smart developer tools.  
 Currently building and help maintaining products that include OpenAI, Next.js, and cloud-native architecture.
   
-🔭 I’m working in: a startup, like usually  
-👋 Support: add 👍 for "[Uxer](https://www.urbandictionary.com/define.php?term=uxer)" on Urban dictionary   
-❔ What the: Dev is my option of name David (Dave)  
+💻 I’m working in: a startup, like usually  
+📚 Support: add 👍 for "[Uxer](https://www.urbandictionary.com/define.php?term=uxer)" on Urban dictionary   
+📯 The: Dev is enough habitual option of name David (Dave)  
 🔍 How to reach me: dev ieffe   
 😄 Pronouns: [i-e-fe] *eu
    
