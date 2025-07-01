@@ -13,7 +13,7 @@ Currently building and help maintaining products that include OpenAI, Next.js, a
 React / Next.js / TypeScript / Node.js / Python / GenAI / Vercel / Neon / & many more
 
 ## Primary software
-VS Code / GPT & other / GitHub / Adobe Creative Suite / Google 
+VS Code … / GPT & other / GitHub / Adobe Creative Suite / Google 
   
 ## Let's connect  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devieffe) 
