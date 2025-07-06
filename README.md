@@ -4,7 +4,7 @@ FE/FS developer passionate about new tech like gen AI, "vibe" coding, frontend U
 Currently building and help maintaining products that include OpenAI, Next.js, and cloud-native architecture.
   
 💻 I’m working in: a startup, like usually  
-📚 Support: add 👍s
+📚 Support: add 👍s  
 📯 The: Dev is enough habitual option of name David (Dave)  
 🔍 How to reach me: dev ieffe   
 😄 Pronouns: [i-e-fe] *eu
