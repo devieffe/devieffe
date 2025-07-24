@@ -7,7 +7,7 @@ Currently building and help maintaining products that include OpenAI, Next.js, a
 📚 Support: add 👍  
 📯 The: Dev is enough habitual option of name David (Dave)  
 🔍 How to reach me: dev ieffe   
-😄 Pronouns: [i-e-fe] *eu
+😄 Pronounce: [i-e-fe] *eu
    
 ## My tech stack
 React / Next.js / TypeScript / Node.js / Python / GenAI / Vercel / Neon / & many more
