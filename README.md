@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Dev
 
-FE/FS developer passionate about new tech like gen AI, "vibe" coding, frontend UX, and smart developer tools.  
-Currently building and help maintaining products that include OpenAI, Next.js, and cloud-native architecture.
+**FE/FS developer** passionate about new tech like gen AI, "vibe" coding, frontend UX, and smart developer tools.  
+Currently building and helping maintain products that include **OpenAI, Next.js, and cloud-native architecture**.
   
-💻 I’m working in: a startup, like usually  
-📚 Support: add 👍  
+💻 I’m working in: a startup (as usual)  
+📚 Support: add a 👍  
 📯 The: Dev is enough habitual option of name David (Dave)  
 🔍 How to reach me: dev ieffe   
-😄 Pronounce: [i-e-fe] *eu
+😄 Pronunciation: [i-e-fe] *eu
    
 ## My tech stack
 React / Next.js / TypeScript / Node.js / Python / GenAI / Vercel / Neon / & many more
