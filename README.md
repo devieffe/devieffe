@@ -10,10 +10,10 @@ Currently building and helping maintain products that include **OpenAI, Next.js,
 😄 Pronunciation: [i-e-fe] *eu
    
 ## My tech stack
-React / Next.js / TypeScript / Node.js / Python / GenAI / Vercel / Neon / & many more
+React / Next.js / TypeScript / Node.js / Python / Vercel / Neon / & many more 
 
 ## Primary software
-IDE … / GPT & other / Git / Adobe CC / Figma
+IDE … / Git / Adobe CC / Figma
   
 ## Let's connect  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devieffe) 
