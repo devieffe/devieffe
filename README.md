@@ -9,7 +9,7 @@
 😄 Pronunciation: [i-e-fe] *eu
    
 ## My tech stack
-React / Next.js / TypeScript / Node.js / Python / AWS / Vercel / & many more 
+React / Next.js / TypeScript / Node.js / Python / AWS / Vercel & many more 
 
 ## Primary software
 IDE … / Git / Adobe CC / Figma
