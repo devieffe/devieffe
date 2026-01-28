@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Dev
 
-**FE/FS developer** passionate about new tech like gen AI, "vibe" coding, frontend UX, and smart developer tools.  
-Currently building and helping maintain products that include **OpenAI, Next.js, and cloud-native architecture**.
+**FE/FS developer** passionate about new tech like GenAI, vibe coding, UX, and smart developer tools.  
   
 💻 I’m working in: a startup (as usual)  
 📚 Support: add a 👍  
@@ -10,7 +9,7 @@ Currently building and helping maintain products that include **OpenAI, Next.js,
 😄 Pronunciation: [i-e-fe] *eu
    
 ## My tech stack
-React / Next.js / TypeScript / Node.js / Python / Vercel / Neon / & many more 
+React / Next.js / TypeScript / Node.js / Python / AWS / Vercel / & many more 
 
 ## Primary software
 IDE … / Git / Adobe CC / Figma
