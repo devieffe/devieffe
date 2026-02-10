@@ -6,10 +6,10 @@
 📚 Support: add a 👍  
 📯 The: Dev is enough habitual option of name David (Dave)  
 🔍 How to reach me: dev ieffe   
-😄 Pronunciation: [i-e-fe] *eu
+😄 Pronunciation: /iˈjɛfe/ [i-je-fe] *eu
    
-## My tech stack
-React / Next.js / TypeScript / Node.js / Python / AWS / Vercel & many more 
+## My dev stack
+React / Next.js / TypeScript / Node.js / Python / AWS & more 
 
 ## Primary software
 IDE … / Git / Adobe CC / Figma
