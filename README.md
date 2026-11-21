@@ -12,7 +12,7 @@
 React / Next.js / TypeScript / Node.js / Python / AWS & more 
 
 ## Primary software
-IDE … / Git / Adobe / Figma
+IDE / Git / Adobe / Figma
   
 ## Let's connect  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devieffe/) 
